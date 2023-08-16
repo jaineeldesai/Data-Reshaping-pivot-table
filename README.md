@@ -10,7 +10,7 @@ In the first part of this lab, you will use Pandas pivot table to extract insigh
 
 ## Getting Started
 
-Open the `main.ipynb` file in the `your-code` directory. You will be using the employee.csv data
+Open the `main.ipynb` file in the `code` directory. You will be using the employee.csv data
 
 ## Deliverables
 
